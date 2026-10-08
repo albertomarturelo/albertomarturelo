@@ -1,6 +1,6 @@
 # Hi, I'm Alberto 👋
 
-I'm a **Software Engineering Manager for mobile platform** based in Santiago, Chile, with **10+ years building mobile products**. I currently lead the mobile platform of **[Equifax](https://www.equifax.com) ID Watchdog**, where I've driven a full turnaround in quality, security and growth — including 2× monthly active users and pen tests with zero vulnerabilities. I'm the author of **[Context-First Development](https://github.com/albertomarturelo/context-first-development)** and founder of **[AltumStack](https://altumstack.com)**.
+I'm a **Software Engineering Manager for mobile platform** based in Santiago, Chile, with **10+ years building mobile products**. I currently lead the mobile platform of **[Equifax](https://www.equifax.com) ID Watchdog**, where I've driven a full turnaround in quality, security and growth — including 2× monthly active users and pen tests with zero vulnerabilities. I'm the author of **[Context-First Development](https://github.com/albertomarturelo/context-first-development)** and founder of **[AltumStack](https://altumstack.com)**. More about me at **[albertomarturelo.com](https://albertomarturelo.com/)**.
 
 My north star: *the declarative and explicit scales; the implicit and scattered collapses.*
 
@@ -19,7 +19,7 @@ My north star: *the declarative and explicit scales; the implicit and scattered 
 
 **AI & agentic dev:** ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D4A27A?logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?logo=modelcontextprotocol&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Anthropic-D4A27A?logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 
-**Dev & infra:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+**Dev & infra:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ## 📦 Selected work
 
