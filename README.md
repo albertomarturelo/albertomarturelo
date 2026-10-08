@@ -9,7 +9,7 @@ My north star: *the declarative and explicit scales; the implicit and scattered 
 - **Mobile platform turnaround:** rescuing production apps with low ratings, crashes and security debt — quality, reliability and reputation as measurable engineering outcomes
 - **Mobile architecture with Flutter:** Bloc, Clean Architecture and published packages ([`bloc_one_shot`](https://pub.dev/packages/bloc_one_shot), [`happy_review`](https://pub.dev/packages/happy_review))
 - **Context engineering for AI in the CLI:** [Context-First Development (CFD)](https://github.com/albertomarturelo/context-first-development) — an ADR-driven methodology so your AI agent stops starting every session with amnesia
-- **CLIs + MCP servers for real-world portals:** tools like [`sii`](https://github.com/albertomarturelo/sii) (Chile's tax authority) and [`nemo`](https://github.com/albertomarturelo/nemo), built with disciplined, reproducible engineering
+- **CLIs + MCP servers for real-world portals:** tools like [`sii`](https://github.com/albertomarturelo/sii) (Chile's tax authority), [`cta`](https://github.com/albertomarturelo/cta) (read-only access to your own bank accounts) and [`nemo`](https://github.com/albertomarturelo/nemo), built with disciplined, reproducible engineering
 
 ## 🛠️ Tech I work with
 
@@ -25,6 +25,7 @@ My north star: *the declarative and explicit scales; the implicit and scattered 
 
 - **[context-first-development](https://github.com/albertomarturelo/context-first-development)** — the methodology and template that materializes CFD. *"Your AI agent has amnesia at the start of every session. CFD is the cure."*
 - **[sii](https://github.com/albertomarturelo/sii)** — TypeScript core + CLI + MCP server that automates routine interactions with Chile's tax authority (SII). My clearest showcase of CFD in practice.
+- **[cta](https://github.com/albertomarturelo/cta)** — CLI + MCP server to read your own bank balance, transactions and credit cards from the terminal or an AI agent. Read-only by design: you log in on the bank's real page, and the session lives only in memory. Starts with BCI, plus a demo bank to try it without an account.
 - **[nemo](https://github.com/albertomarturelo/nemo)** — CLI for Chilean brokers / personal finance, built the CFD way.
 - **[bloc_one_shot](https://pub.dev/packages/bloc_one_shot)** — Flutter/Dart packages for one-shot side effects in Bloc, on pub.dev.
 - **[happy_review](https://pub.dev/packages/happy_review)** — a friendlier in-app review strategy for mobile apps.
